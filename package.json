@@ -22,7 +22,7 @@
     "url": "^0.11.1"
   },
   "dependencies": {
-    "@mlc-ai/web-llm": "0.2.73",
+    "@mlc-ai/web-llm": "^0.2.82",
     "react": "^19.0.0",
     "react-async-hook": "^4.0.0",
     "react-dom": "^19.0.0"
